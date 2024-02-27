@@ -1,4 +1,4 @@
-/*Write a program to count the number of occurrences of any two vowels in succession in a line of text. For example, in the following sentence:“Read the question meticulously” */
+//Write a program to count the number of occurrences of any two vowels in succession in a line of text. For example, in the following sentence:“Read the question meticulously” //
 #include <stdio.h>
 #include <ctype.h>
 
